@@ -4,17 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. *Patrizi, N.; Fragkos, G.; Tsiropoulou, E.E. ”A Reinforcement Learning Framework for Emergency Situations Management exploit-ing Contract Theory,” in IEEE WCNEE 2020 (to be submitted)*
+1. *Patrizi, N.; Fragkos, G.; Tsiropoulou, E.E. ”A Reinforcement Learning Framework for Emergency Situations Management exploiting Contract Theory,” in IEEE WCNEE 2020 (to be submitted)*
 
 2. *Fragkos, G.; Lebien, S.; Tsiropoulou, E.E. ”Incentivization of Mobile Edge Computing servers using Bayesian Learning Automata,”in IEEE Transactions on Mobile Computing (to be submitted)*
 
-3. *Fragkos, G.; Chai, Y.; Tsiropoulou, E.E.; Veneris A. ”Decentralized Oracles Voting Formulation based on Bayesian Belief in aBlockchain Setting,” in IEEE ICBC 2020 (under review)*
+3. *Fragkos, G.; Chai, Y.; Tsiropoulou, E.E.; Veneris A. ”Decentralized Oracles Voting Formulation based on Bayesian Belief in a Blockchain Setting,” in IEEE ICBC 2020 (under review)*
 
-4. *Fragkos, G.; Minwalla, C.; Plusquellic, J.; Tsiropoulou, E.E. ”Reinforcement Learning Toward Decision-Making for MultipleTrusted-Third-Parties in PUF-Cash,” in IEEE WF-IoT 2020 (under review)*
+4. *Fragkos, G.; Minwalla, C.; Plusquellic, J.; Tsiropoulou, E.E. ”Reinforcement Learning Toward Decision-Making for Multiple Trusted-Third-Parties in PUF-Cash,” in IEEE WF-IoT 2020 (under review)*
 
-5. *Fragkos, G.; Patrizi, N.; Tsiropoulou, E.E; Papavassiliou S. ”Socio-aware Public Safety Framework Design: A Contract Theorybased Approach,” in IEEE ICC 2020 (under review)*
+5. *Fragkos, G.; Patrizi, N.; Tsiropoulou, E.E; Papavassiliou S. ”Socio-aware Public Safety Framework Design: A Contract Theory based Approach,” in IEEE ICC 2020 (under review)*
 
-6. *Fragkos, G.; Kemp, N.; Tsiropoulou, E.E; Papavassiliou S. ”Artificial Intelligence Empowered UAVs Data Offloading in Mobile EdgeComputing,” in IEEE ICC 2020 (under review)*
+6. *Fragkos, G.; Kemp, N.; Tsiropoulou, E.E; Papavassiliou S. ”Artificial Intelligence Empowered UAVs Data Offloading in Mobile Edge Computing,” in IEEE ICC 2020 (under review)*
 
 2. *G. Fragkos, E.E. Tsiropoulou, and S. Papavassiliou, "Disaster Management and Information Transmission Decision-making in Public Safety Systems," in IEEE GLOBECOM, 2019.*
 
