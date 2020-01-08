@@ -8,7 +8,7 @@ author_profile: true
 
 2. *Fragkos, G.; Lebien, S.; Tsiropoulou, E.E. ”Incentivization of Mobile Edge Computing servers using Bayesian Learning Automata,”in IEEE Transactions on Mobile Computing (to be submitted)*
 
-3. *Fragkos, G.; Chai, Y.; Tsiropoulou, E.E.; Veneris A. ”Decentralized Oracles Voting Formulation based on Bayesian Belief in a Blockchain Setting,” in IEEE ICBC 2020 (under review)*
+3. *Chai, Y.; Fragkos, G.; Tsiropoulou, E.E.; Veneris A. ”Truthful Decentralized Blockchain Oracles,” in IEEE ICBC 2020 (under review)*
 
 4. *Fragkos, G.; Minwalla, C.; Plusquellic, J.; Tsiropoulou, E.E. ”Reinforcement Learning Toward Decision-Making for Multiple Trusted-Third-Parties in PUF-Cash,” in IEEE WF-IoT 2020 (under review)*
 
