@@ -6,7 +6,10 @@ main:
     url: /work/
     
   - title: "Publications"
-    url: /publications/   
+    url: /publications/  
+    
+  - title: "Honors & Awards"
+    url: /honors/
     
   - title: "Research Interests"
     url: /research/   
