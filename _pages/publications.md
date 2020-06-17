@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+## Journal Publications
+
 1. *Fragkos, G.; Lebien, S.; Tsiropoulou, E.E. ”Incentivization of Mobile Edge Computing servers using Bayesian Learning Automata,”in IEEE Transactions on Mobile Computing (to be submitted)*
 
 2. *Fragkos, G.; Minwalla, C.; Plusquellic, J.; Tsiropoulou, E.E. “Reinforcement Learning Toward Decision-Making for MultipleTrusted-Third-Parties in PUF-Cash,” in ACM Journal on Emerging Technologies in Computing Systems (to be submitted)*
@@ -13,6 +16,8 @@ author_profile: true
 4. *Tsoulias, K.; Palaiokrassas, G.; Fragkos, G.; Litke, A.; Varvarigou, T. "A Graph Model Based Blockain Implementation for Increasing Performance and Security in Decentralized Ledger Systems", in IEEE Access 2020 (to appear)*
 
 5. *Fragkos, G.; Apostolopoulos, P.A.; Tsiropoulou, E.E. ESCAPE: Evacuation Strategy through Clustering and Autonomous Operation in Public Safety Systems. Future Internet 2019, 11, 20.*
+
+## Conference Publications
 
 6. *Patrizi, N.; Fragkos, G.; Tsiropoulou, E.E.; Papavassiliou, S.”Contract-Theoretic Resource Control in Wireless Powered Communi-cation Public Safety Systems,” in IEEE Globecom 2020 (under review)*
 
@@ -32,7 +37,7 @@ author_profile: true
 
 14. *Fragkos, G.; Kemp, N.; Tsiropoulou, E.E; Papavassiliou S. ”Artificial Intelligence Empowered UAVs Data Offloading in Mobile Edge Computing,” in IEEE ICC,2020. (to appear)*
 
-15. *G. Fragkos, E.E. Tsiropoulou, and S. Papavassiliou, "Disaster Management and Information Transmission Decision-making in Public Safety Systems," in IEEE GLOBECOM, 2019. (to appear)*
+15. *G. Fragkos, E.E. Tsiropoulou, and S. Papavassiliou, "Disaster Management and Information Transmission Decision-making in Public Safety Systems," in IEEE GLOBECOM, 2019.*
 
 16. *Palaiokrassas G., Litke A., Fragkos G., Papaefthymiou V., Varvarigou T. (2019) Deploying Blockchains for a New Paradigm of Media Experience. In: Coppola M., Carlini E., D’Agostino D., Altmann J., Bañares J. (eds) Economics of Grids, Clouds, Systems, and Services. GECON 2018. Lecture Notes in Computer Science, vol 11113. Springer, Cham*
 
