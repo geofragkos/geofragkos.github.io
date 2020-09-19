@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 - Reinforcement Learning
+- Machine Learning
 - Game Theory
-- Public Safety Systems
-- Resource Orchestration in Interdependent Systems
 - Blockchain
