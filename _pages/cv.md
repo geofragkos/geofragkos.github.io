@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-[Click Here to view my CV!](https://github.com/geofragkos/geofragkos.github.io/files/cv_fragkos.pdf)
+[Click Here to view my Resume!](https://github.com/geofragkos/geofragkos.github.io/files/cv_fragkos.pdf)
 
