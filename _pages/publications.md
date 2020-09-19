@@ -9,7 +9,7 @@ author_profile: true
 1. *Fragkos, G.; Johnson, J.; Tsiropoulou, E.E. “A Dynamic RBAC Policy Improvement Based On Offline Deep Reinforcement Learning,”
 in IEEE Transactions on Human-Machine Systems (to be submitted)*
 
-2. *Fragkos, G.; Minwalla, C.; Plusquellic, J.; Tsiropoulou, E.E. “Reinforcement Learning Toward Decision-Making for MultipleTrusted-Third-Parties in PUF-Cash,” in ACM Journal on Emerging Technologies in Computing Systems (to be submitted)*
+2. *Fragkos, G.; Minwalla, C.; Plusquellic, J.; Tsiropoulou, E.E. “Reinforcement Learning Toward Decision-Making for MultipleTrusted-Third-Parties in PUF-Cash,” in ACM Journal on Emerging Technologies in Computing Systems (under review)*
 
 3. *Apostolopoulos, P.A.; Fragkos, G.; Tsiropoulou, E.E; Papavassiliou S. ”Data Offloading in UAV-assisted Multi-access Edge Com-puting Systems under Resource Uncertainty,” in IEEE Transactions of Mobile Computing (under review)*
 
